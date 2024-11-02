@@ -1,0 +1,11 @@
+[project]
+name = "passwd-recovery"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask-mail>=0.10.0",
+    "flask>=3.0.3",
+    "ruff>=0.7.0",
+]
